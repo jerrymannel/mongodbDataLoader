@@ -1,0 +1,24 @@
+{
+  "name": "mongodbDataLoader",
+  "version": "1.0.0",
+  "description": "Utility to load multiple documents into a collection",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jerrymannel/mongodbDataLoader.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jerrymannel/mongodbDataLoader/issues"
+  },
+  "homepage": "https://github.com/jerrymannel/mongodbDataLoader#readme",
+  "dependencies": {
+    "mongodb": "^3.6.9",
+    "progress": "^2.0.3"
+  }
+}
